@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\Movies.Api.csproj": {}
+    "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Movies.Api.csproj": {}
   },
   "projects": {
-    "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\Movies.Api.csproj": {
+    "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Movies.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\Movies.Api.csproj",
+        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Movies.Api.csproj",
         "projectName": "Movies.Api",
-        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\Movies.Api.csproj",
+        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Movies.Api.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\obj\\",
+        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\Movies.Application.csproj": {
-                "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\Movies.Application.csproj"
+              "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj": {
+                "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj"
               },
-              "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj": {
-                "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj"
+              "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj": {
+                "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\Movies.Application.csproj": {
+    "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\Movies.Application.csproj",
+        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj",
         "projectName": "Movies.Application",
-        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\Movies.Application.csproj",
+        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Application\\obj\\",
+        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj": {
+    "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj",
+        "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj",
         "projectName": "Movies.Contracts",
-        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj",
+        "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\obj\\",
+        "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj",
+      "projectUniqueName": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj",
       "projectName": "Movies.Contracts",
-      "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\Movies.Contracts.csproj",
+      "projectPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Movies.Contracts.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Contracts\\obj\\",
+      "outputPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/qLC7fdnRA=",
+  "dgSpecHash": "hEakb1mkIgM=",
   "success": true,
-  "projectFilePath": "E:\\own-practice\\DomeTrainRestApi\\MovieSolution\\Movies.Api\\Movies.Api.csproj",
+  "projectFilePath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Movies.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

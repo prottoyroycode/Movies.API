@@ -3,36 +3,8 @@
   "WorkspaceRootPath": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.application\\movies.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{90B5B774-0ABF-4AAD-A4C6-5E9D5015100B}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\movies.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.contracts\\response\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\response\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.contracts\\response\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\response\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.contracts\\request\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\request\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.contracts\\request\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F65E581-E34F-41C0-B29A-31B431220A3B}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\request\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228E4907-0A3D-4C93-882E-F653A307103D}|Movies.Api\\Movies.Api.csproj|e:\\own-practice\\dometrainrestapi\\moviessolution\\movies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{228E4907-0A3D-4C93-882E-F653A307103D}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,173 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Repositories\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\MovieRepository.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Repositories\\MovieRepository.cs",
-              "RelativeToolTip": "Movies.Application\\Repositories\\MovieRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:31:13.551Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Repositories\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\IMovieRepository.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Repositories\\IMovieRepository.cs",
-              "RelativeToolTip": "Movies.Application\\Repositories\\IMovieRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:30:59.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Movies.Application\\Models\\Movie.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Models\\Movie.cs",
-              "RelativeToolTip": "Movies.Application\\Models\\Movie.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:14:03.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Movies.Application",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj",
-              "RelativeDocumentMoniker": "Movies.Application\\Movies.Application.csproj",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Application\\Movies.Application.csproj",
-              "RelativeToolTip": "Movies.Application\\Movies.Application.csproj",
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Movies.Api\\Program.cs",
+              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Api\\Program.cs",
+              "RelativeToolTip": "Movies.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-02T11:12:07.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesResponse.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Response\\MoviesResponse.cs",
-              "RelativeDocumentMoniker": "Movies.Contracts\\Response\\MoviesResponse.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Response\\MoviesResponse.cs",
-              "RelativeToolTip": "Movies.Contracts\\Response\\MoviesResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T10:51:23.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MovieResponse.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Response\\MovieResponse.cs",
-              "RelativeDocumentMoniker": "Movies.Contracts\\Response\\MovieResponse.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Response\\MovieResponse.cs",
-              "RelativeToolTip": "Movies.Contracts\\Response\\MovieResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T10:50:55.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpdateMovieRequest.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Request\\UpdateMovieRequest.cs",
-              "RelativeDocumentMoniker": "Movies.Contracts\\Request\\UpdateMovieRequest.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Request\\UpdateMovieRequest.cs",
-              "RelativeToolTip": "Movies.Contracts\\Request\\UpdateMovieRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T10:50:16.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateMovieRequest.cs",
-              "DocumentMoniker": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Request\\CreateMovieRequest.cs",
-              "RelativeDocumentMoniker": "Movies.Contracts\\Request\\CreateMovieRequest.cs",
-              "ToolTip": "E:\\own-practice\\DomeTrainRestApi\\MoviesSolution\\Movies.Contracts\\Request\\CreateMovieRequest.cs",
-              "RelativeToolTip": "Movies.Contracts\\Request\\CreateMovieRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T10:50:02.43Z",
+              "WhenOpened": "2024-09-02T18:08:23.768Z",
               "EditorCaption": ""
             }
           ]

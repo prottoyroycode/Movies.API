@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Movies.Api.ApiEndPoints;
 using Movies.Api.Mapping;
 using Movies.Application.Models;
 using Movies.Application.Repositories;
@@ -16,7 +17,7 @@ namespace Movies.Api.Controllers
         {
             _movieRepository = movieRepository;
         }
-        [HttpPost("movies")]
+        [HttpPost(ApiEndpoints.Movie.Create)]
         public async Task<IActionResult> Create([FromBody] CreateMovieRequest request)
         {
             var movie = request.MapToMovie();

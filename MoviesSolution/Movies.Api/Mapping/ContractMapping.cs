@@ -1,18 +1,36 @@
 ﻿using Movies.Application.Models;
 using Movies.Contracts.Request;
+using Movies.Contracts.Response;
 
 namespace Movies.Api.Mapping
 {
     public static class ContractMapping
     {
-        public static Movie MapToMovie(this CreateMovieRequest request) 
+        public static Movie MapToMovie(this CreateMovieRequest request)
         {
             return new Movie
             {
-                Id=Guid.NewGuid(),
-                Title=request.Title,
-                YearOfRelease=request.YearOfRelease,
-                Genres=request.Genres.ToList(),
+                Id = Guid.NewGuid(),
+                Title = request.Title,
+                YearOfRelease = request.YearOfRelease,
+                Genres = request.Genres.ToList(),
+            };
+        }
+        public static MovieResponse MapToResponse(this Movie movie)
+        {
+            return new MovieResponse
+            {
+                Id = movie.Id,
+                Title = movie.Title,
+                YearOfRelease = movie.YearOfRelease,
+                Genres = movie.Genres
+            };
+        }
+        public static MoviesResponse MapToResponseList(this IEnumerable<Movie> movies)
+        {
+            return new MoviesResponse
+            {
+                Items = movies.Select(s => s.MapToResponse()).ToList()
             };
         }
     }

@@ -22,14 +22,14 @@ namespace Movies.Api.Controllers
         {
             var movie = request.MapToMovie();
             await _movieRepository.CreateAsync(movie);
-            return CreatedAtAction(nameof(Get), new {id =movie.Id},movie);
+            return CreatedAtAction(nameof(Get), new { id = movie.Id }, movie);
             //return Created($"/{ApiEndpoints.Movies.Create}/{movie.Id}", movie);
         }
         [HttpGet(ApiEndpoints.Movies.Get)]
-        public async Task<IActionResult> Get([FromRoute]Guid id)
+        public async Task<IActionResult> Get([FromRoute] Guid id)
         {
             var movie = await _movieRepository.GetByIdAsync(id);
-            if (movie == null)
+            if (movie is null)
             {
                 return NotFound();
             }
@@ -40,11 +40,23 @@ namespace Movies.Api.Controllers
         public async Task<IActionResult> GetAll()
         {
             var movies = await _movieRepository.GetAllAsync();
-            if (movies == null)
+            if (movies is null)
             {
                 return NotFound();
             }
             var response = movies.MapToResponseList();
+            return Ok(response);
+        }
+        [HttpPut(ApiEndpoints.Movies.Update)]
+        public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateMovieRequest request)
+        {
+            var movie = request.MapToMovieUpdate(id);
+            var updated =await _movieRepository.UpdateAsync(movie);
+            if (!updated)
+            {
+                return NotFound();
+            }
+            var response = movie.MapToResponse();
             return Ok(response);
         }
     }
